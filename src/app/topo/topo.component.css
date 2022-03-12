@@ -1,5 +1,3 @@
-p {
-    color: green;
-    font-size: 40px;
-    font-weight: bold;
+.navbar {
+    background: #1cb0f6;
 }
