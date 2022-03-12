@@ -1,0 +1,13 @@
+.derrota {
+    margin-top: 30px;
+    color: red;
+}
+
+.vitoria {
+    margin-top: 30px;
+    color: green;
+}
+
+.reiniciar {
+    margin-top: 15px;
+}
